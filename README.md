@@ -12,11 +12,20 @@ Practical-
    * Creating a Tensor Range and Tensors Like Other
 
 # Day-2 :-
+Today , I concentrated more on tensors , and tried to understand the Data Types and some operations using PyTorch. 
+Also had to enhance the setup, but finally moved to Google Colab-Research
 
-Practical-
-   * test1
-   * test2
-   * test3
+Practical Topics Covered-
+   * Tensor - Data types, and manipulation
+   * Precision ( Comp. science)
+   * Creating random tensors
+   * Finding Out details about some tensors
+   * mathematical operations on tensors
+   * Creating tensor and addition
+   * multiplication
+   * substarction
+   * In-Built PyTorch Functions- add and multiply
+
 
 # day-3 :-
 
