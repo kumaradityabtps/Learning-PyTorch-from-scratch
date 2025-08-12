@@ -32,6 +32,8 @@ Practical-
    * test1
    * test2
    * test3
+link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day3.ipynb
+
 
 # Day-4 :-
 
