@@ -26,15 +26,28 @@ Practical Topics Covered-
    * substarction
    * In-Built PyTorch Functions- add and multiply
 
-
-# day-3 :-
+# Day-3 :-
 
 Practical-
    * test1
    * test2
    * test3
 
-# Day-3 :-
+# Day-4 :-
+
+Practical-
+   * test1
+   * test2
+   * test3
+
+# Day-5 :-
+
+Practical-
+   * test1
+   * test2
+   * test3
+
+# Day-6 :-
 
 Practical-
    * test1
