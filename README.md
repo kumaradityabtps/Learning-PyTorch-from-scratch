@@ -27,11 +27,15 @@ Practical Topics Covered-
    * In-Built PyTorch Functions- add and multiply
 
 # Day-3 :-
+Did a deep dive into Matrix concepts, and solved some theoretical questions for brush up and, then hands-on PyTorch code.
 
 Practical-
-   * test1
-   * test2
-   * test3
+   * Element-wise & Matrix multiplication
+   * time comaprision of the "for loop" & "torch.matmul"
+   * different kind of errors like shape error etc.
+   * matrix transpose
+ 
+     
 link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day3.ipynb
 
 
