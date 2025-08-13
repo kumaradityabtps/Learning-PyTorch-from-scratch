@@ -54,7 +54,21 @@ Practical-
    * test3
 
 # Day-6 :-
+    
+Practical-
+   * test1
+   * test2
+   * test3
 
+# Day-7 :-
+    
+Practical-
+   * test1
+   * test2
+   * test3
+
+# Day-8 :-
+    
 Practical-
    * test1
    * test2
