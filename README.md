@@ -47,6 +47,8 @@ Practical-
    * Reshaping, Stacking, Squeezing, and unsqueezing
    * Indexing
    * Finding positional min and max
+
+Link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day4.ipynb
  
 
 # Day-5 :-
