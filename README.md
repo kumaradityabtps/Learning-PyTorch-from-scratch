@@ -40,11 +40,14 @@ link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/
 
 
 # Day-4 :-
+After along break, resatarted studying pytorch and covered the more mathe mathtical and practical concepts.
 
 Practical-
-   * test1
-   * test2
-   * test3
+   * Finding min, max, mean, sum etc.
+   * Reshaping, Stacking, Squeezing, and unsqueezing
+   * Indexing
+   * Finding positional min and max
+ 
 
 # Day-5 :-
 
