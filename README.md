@@ -52,11 +52,16 @@ Link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/
  
 
 # Day-5 :-
+Today was more conceptual, then practicals. Studied the usability and applications ofthe ML concepts.
 
 Practical-
-   * test1
-   * test2
-   * test3
+   * PyTorch tensors & Numpy
+   * Numpy array to tensor
+   * tensor to numpy array
+   * Reproducability
+   * Running Tensors and PyTorch objects on GPUs,
+   * Putting tensors (and models) on the GPU
+  Link - https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day5.ipynb
 
 # Day-6 :-
     
