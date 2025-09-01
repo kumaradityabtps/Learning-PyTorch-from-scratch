@@ -84,11 +84,12 @@ Hands-on Exercise -
 
 
 # Day-7 :-
+It was already, day-7 so I tried to do some advanced level of programming, "Autograd"
     
-Practical-
-   * test1
-   * test2
-   * test3
+Topics covered-
+   * Mathematics behind the Deep Learning concepts
+   * Need for AutoGrad
+   * Use of autograd for different applications
 
 # Day-8 :-
     
