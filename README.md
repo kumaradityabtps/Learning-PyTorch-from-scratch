@@ -61,6 +61,7 @@ Practical-
    * Reproducability
    * Running Tensors and PyTorch objects on GPUs,
    * Putting tensors (and models) on the GPU
+
   Link - https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day5.ipynb
 
 # Day-6 :-
@@ -82,6 +83,7 @@ Hands-on Exercise -
    * Inpalce Operations
    * Copying a Tensor
 
+Link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day6.ipynb
 
 # Day-7 :-
 It was already, day-7 so I tried to do some advanced level of programming, "Autograd"
@@ -90,6 +92,8 @@ Topics covered-
    * Mathematics behind the Deep Learning concepts
    * Need for AutoGrad
    * Use of autograd for different applications
+
+Link-https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/Pt_Day7.ipynb
 
 # Day-8 :-
     
