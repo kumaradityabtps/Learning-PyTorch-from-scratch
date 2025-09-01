@@ -75,7 +75,7 @@ Hands-on Exercise -
    * Creating tensors (empty, type, zeros, ones, rand, tensors, arange)
    * Tensor Shapes
    * Tensor Data Type
-   * MatheMatical Operations
+   * Mathematical Operations
    * Reduction Operations
    * Matrix operations
    * Comparison Operations
