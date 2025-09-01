@@ -64,11 +64,24 @@ Practical-
   Link - https://github.com/kumaradityabtps/Learning-PyTorch-from-scratch/blob/main/PT_Day5.ipynb
 
 # Day-6 :-
-    
+Day-6 is the combination of both saturday & sunday, did model deployment as well as the hands-on practice of previous topics
+
 Practical-
-   * test1
-   * test2
-   * test3
+   * Data Preparation for building regresssion model.
+   * Building functions to visualise data.
+   * Building first pytorch model
+Hands-on Exercise -
+   * Creating tensors (empty, type, zeros, ones, rand, tensors, arange)
+   * Tensor Shapes
+   * Tensor Data Type
+   * MatheMatical Operations
+   * Reduction Operations
+   * Matrix operations
+   * Comparison Operations
+   * Special Functions
+   * Inpalce Operations
+   * Copying a Tensor
+
 
 # Day-7 :-
     
